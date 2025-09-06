@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from datetime import datetime, date
 
 # Tampilkan tanggal hari ini
@@ -31,5 +30,3 @@ print(f"Umur Anda Secara Detail : \n{years_birth} Tahun, {month_birth} Bulan, {d
 # Tampilkan waktu saat ini
 current_time = datetime.now()
 print(f"Jam Saat Ini : {current_time.strftime('%H:%M:%S')}")
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
