@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # format dalam str untuk efisiensi kode
 
 # regular str
@@ -65,7 +64,3 @@ while True:
     print(f_strb)
     print(f_stro)
     print(f_strh)
-
-
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
