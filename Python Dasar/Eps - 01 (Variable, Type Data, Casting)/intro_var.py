@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # beberapa shortcut vscode
 # ALT + Shift + PgDown
 
@@ -93,5 +92,3 @@ d_float = float(d_bool) # bool menjadi 1.0 ketika True, jadi 0 ketika false
 print(d_str, "bertipe :", type(d_str))
 print(d_int, "bertipe :", type(d_int))
 print(d_float, "bertipe :", type(d_float)) 
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
