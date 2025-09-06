@@ -11,6 +11,6 @@ Feel free to see my documentations. If it helps you, then im glad to hear that �
 <br>
 See me on Instagram
 <br>
-<a href ="https://www.instagram.com/reiyuii_/">DM me if you want to ask something! 📩</a>
+<a href ="https://www.instagram.com/reiyuii_/">📩 DM me if you want to ask something!</a>
 
 <img src="1394980.jpg"></img>
