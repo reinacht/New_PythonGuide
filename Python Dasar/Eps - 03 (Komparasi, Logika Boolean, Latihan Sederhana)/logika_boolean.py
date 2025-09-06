@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # logika dalam python : or, and, not, xor
 
 # logika or (or) : jika salah satu boolean bernilai True dari beberapa boolean 
@@ -85,5 +84,3 @@ val1 = True
 val2 = True
 result = val1 ^ val2
 print (val1, "XOR", val2, ":", result)
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
