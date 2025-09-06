@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # operator assignment
 # penyederhanaan operator (semua operator bisa 
 
@@ -60,6 +59,3 @@ z = 7
 print(z,"binernya :",format(z, '08b'))
 z <<= 2
 print(z,"binernya :",format(z, '08b'), "digeser 2 kali kekiri")
-
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
