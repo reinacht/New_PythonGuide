@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Import Library Datetime
 # Program Tanggal Sederhana
 from datetime import datetime
@@ -31,5 +30,3 @@ hours = hours
 
 time = current_time.strftime(f"{hours} Jam, %M Menit, %S Detik")
 print(f"Umur Anda Secara Detail : \n{years_birth} Tahun, {month_birth} Bulan, {day_birth} Hari. {time}")
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
