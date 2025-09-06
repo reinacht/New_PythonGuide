@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Flow Code (If, Else, Elif statement)
 # If
 # Konditionen
@@ -19,5 +18,3 @@ elif name == "Rei":
 else:
     print(f"Maaf {name}, Mungkin Anda yang ke-terakhir atau Kami yang tidak mengenali Anda")
 print("Selamat Malam, Sayonara!")
-    
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
