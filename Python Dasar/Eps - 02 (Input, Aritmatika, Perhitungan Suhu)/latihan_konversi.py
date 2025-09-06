@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # latihan konversi satuan
 
 # celcius ke lainnya
@@ -67,5 +66,3 @@ fahrenheit = kelvin - 273
 fahrenheit = (9 / 5) * fahrenheit + 32
 
 print('Dalam Fahrenheit : ', fahrenheit)
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
