@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TRIANGLE MAKER
 print(10*":",'Triangle',10*":")
 
@@ -16,6 +15,3 @@ while True:
 
     if count > alas:
         break
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
-        
