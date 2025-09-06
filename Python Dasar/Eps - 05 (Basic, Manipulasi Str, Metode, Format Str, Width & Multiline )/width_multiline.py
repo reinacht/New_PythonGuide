@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Witdh and Multiline
 
 # Data
@@ -35,5 +34,3 @@ Berikut ini data pribadi Anda :
     Tinggi : {height:>15}
     Berat Badan : {weight:>10}"""
 print(profile_user)
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
