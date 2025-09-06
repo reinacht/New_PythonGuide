@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # string adalah sekumpulan char
 read = "ini adalah string"
 print(type(read))
@@ -42,5 +41,3 @@ Age      : 99
 """)
 
 print(r"Apapun itu \ndianggap \tstring jika ada r di depan, \n  ")
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
