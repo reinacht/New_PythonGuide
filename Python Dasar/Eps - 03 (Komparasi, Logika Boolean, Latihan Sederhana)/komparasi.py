@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # komparasi ada 8 : < , > , <= , >= , == ,!= , is , is not
 
 # notes : is dan is not hanya bisa digunakan ketika membandingkan object id 
@@ -125,5 +124,3 @@ show3 = hex(id(var3))
 print(show1, "ini adalah hex dari", var1)
 print(show2, "ini adalah hex dari", var2) 
 print(show3, "ini adalah hex dari", var3) 
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
