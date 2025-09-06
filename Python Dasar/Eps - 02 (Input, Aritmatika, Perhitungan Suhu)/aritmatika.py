@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # aritmatika dalam pyhton ada 7
 # +   = penjumlahan
 a = 3
@@ -44,5 +43,3 @@ z = 2
 
 hasil = y ** x + z % 1 - x // z
 print('Hasil dari', y, '**', x, '+', z, '% 1 -', x, '//', z, ' : ', hasil)
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
