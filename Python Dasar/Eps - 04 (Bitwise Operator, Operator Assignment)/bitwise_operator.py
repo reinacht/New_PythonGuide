@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # bitwise operator : operasi khusus antara bilangan biner
 # cara baca biner 
 
@@ -79,5 +78,3 @@ print("Biner x : ", format(x, '08b'))
 print("Biner y : ", format(y, '08b'))
 print("_____________________ (NOT^)")
 print("Hasil   : ", format(res,'08b'))
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
