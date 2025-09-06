@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # manipulasi string
 
 # 1. Menyambung String (concatenate) 
@@ -46,5 +45,3 @@ print("Char utk 170 : ", data)
 text = "kuku kaki kakak dan kakek adalah jumlah dari kuku kaki nenek"
 count = text.count("k")
 print("Jumlah huruf K dari kalimat", text, "adalah", count)
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
