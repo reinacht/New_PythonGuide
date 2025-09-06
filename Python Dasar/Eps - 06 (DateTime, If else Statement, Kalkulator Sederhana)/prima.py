@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## cek prima dari x ke y
 # def var
 min = 1
@@ -57,5 +56,3 @@ if divided_num > 2:
 
 else:
   print("Prima!")
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
-
