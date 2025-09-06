@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """ a = 7
 b = 7
 c = a ^ b
@@ -64,4 +63,3 @@ if reg_o in ['+', '-', '', '/', '*', '//', '%']:
     regular_operations(num_one, num_two, reg_o)
 if bit_o in ['|', '^', '&', '~', '^^']:
     bit_operations(num_one, num_two, bit_o)
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
