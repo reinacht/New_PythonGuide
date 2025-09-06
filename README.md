@@ -1,4 +1,3 @@
-# PythonGuide
-
-Ich bin ein Anfänger in der Programmierung, aber mach ich einen „Guide“ für Python zu lernen.
-Und ich entschuldige mich, wenn mein „Guide“ unvollständig ist.
+Halo, Saya adalah Rei. Pemula dalam pemrograman, dan sedang belajar bahasa Python untuk keperluan mendatang. 
+Ini adalah dokumentasi saya saat belajar bahasa Python, dengan menggunakan sumber belajar dari Youtube Kelas Terbuka dan dokumentasi Python. 
+</h1>TES<>
