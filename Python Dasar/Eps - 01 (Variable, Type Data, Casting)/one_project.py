@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # tugas 1
 # user bisa bayar hutang jika saldo cukup
 # user tidak akan bisa bayar jika saldo tidak cukup
@@ -19,6 +18,3 @@ if saldo_total >= hutang:
     print("Sisa Saldo Anda :", saldo_akhir)
 else:
     print("Maaf, Saldo Anda tidak cukup untuk membayar Hutang!")
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
-
