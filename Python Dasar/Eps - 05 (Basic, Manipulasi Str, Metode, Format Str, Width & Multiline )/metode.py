@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # metode
 
 ## case changing
@@ -62,5 +61,3 @@ print("'"+center+"'")
 # kebalikannya strip() : menghapus
 strip = center.strip(";")
 print("'"+strip+"'")
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
