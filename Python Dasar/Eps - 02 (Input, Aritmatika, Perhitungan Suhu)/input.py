@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # input adalah fungsi untuk memasukkan nilai ke dalam variable melalui masukan dari user
 # data yang dimasukkan pasti str, jadi perlu di casting jika tipenya tidak sesuai dengan yang diinginkan
 
@@ -20,5 +19,3 @@ print("Bertipe :", type(data_float))
 data_bool = bool(int(input("Masukkan angka : ")))
 print("Data :", data_bool)
 print("Bertipe :", type(data_bool))
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
