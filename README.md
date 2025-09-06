@@ -7,5 +7,5 @@ Kedepannya, seiring saya belajar Python beserta Library-nya, saya mungkin juga a
 
 Feel free to see my documentations. If it helps you, then im glad to hear that. ❤️❤️
 See me on Instagram
-<a href ="https://www.instagram.com/reiyuii_/">DM me if you want to ask something! 📩 </a>
+<a href ="https://www.instagram.com/reiyuii_/">DM me if you want to ask something! 📩</a>
 <img src="![1394980](https://github.com/user-attachments/assets/ebdfc361-9da5-4a1b-891c-5a0c606e9643)"></img>
