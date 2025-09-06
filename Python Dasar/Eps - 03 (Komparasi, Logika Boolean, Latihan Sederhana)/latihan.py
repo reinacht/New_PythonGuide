@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # latihan komparasi dan logika sederhana boolean
 # 1
 print("====SOAL_1====")
@@ -21,5 +20,3 @@ val_true3 = num > 11
 
 val_end = val_true1 or val_true2 or val_true3
 print(val_true1, "dan", val_true2, " dan", val_true3, ":", val_end)
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
