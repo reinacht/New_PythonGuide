@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 print(15*":", "Kalkulator" , 15*":")
 
 many = int(input("Masukkan berapa angka yang ingin dioperasikan?"))
@@ -35,5 +34,3 @@ elif many == 4:
 elif many == 5:
     operator3 = input("Masukkan operator :")
     num5 = int(input("Masukkan Angka kelima:"))
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
