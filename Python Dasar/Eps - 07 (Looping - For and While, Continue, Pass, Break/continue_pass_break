@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pass (men-nonaktifkan kode tertentu)
 print(10*":","pass",":"*10)
 x = 0
@@ -80,5 +79,3 @@ while True:
 
     if count < 1:
         break
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
