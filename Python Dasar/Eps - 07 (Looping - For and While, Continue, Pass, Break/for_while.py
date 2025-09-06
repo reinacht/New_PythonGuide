@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # for --> digunakan untuk looping range(), list dan str
 # kondisi
 # aksi
@@ -43,5 +42,3 @@ while x <= 70:
         print(f"Angka {x} adalah kuadrat dari 7!")
         continue
     print(x)
-
->>>>>>> cd1aaeb9d87aeb86de2fca0ed17417b15189fc16
